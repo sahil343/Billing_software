@@ -1,0 +1,17 @@
+		 Welcome Mini Mall
+ Bill Number:1590 
+ Customer Name:bhargav 
+ Phone Number:77778 
+ Customer Email:b@gmail.com 
+=================================================
+	Products			QTY		Price
+=================================================
+ Calvin Klein				1		4000 
+ Himalay				1		90 
+ RealMe 12				1		90
+
+=================================================
+ Sub Amount:			Rs.4180.00
+ Tax Amount:			Rs.736.20
+ Total Amount:			Rs.4916.20
+=================================================

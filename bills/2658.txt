@@ -1,0 +1,18 @@
+		 Welcome Mini Mall
+ Bill Number:2658 
+ Customer Name:sahil 
+ Phone Number:7283960425 
+ Customer Email:boradsahil343@gmail.com 
+=================================================
+	Products			QTY		Price
+=================================================
+ Calvin Klein				1		4000 
+ Himalay				1		90 
+ Smasung M12				1		12000 
+ Pantjali				1		40
+
+=================================================
+ Sub Amount:			Rs.16130.00
+ Tax Amount:			Rs.2896.20
+ Total Amount:			Rs.19026.20
+=================================================

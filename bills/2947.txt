@@ -1,0 +1,17 @@
+		 Welcome Mini Mall
+ Bill Number:2947 
+ Customer Name: 
+ Phone Number: 
+ Customer Email: 
+=================================================
+	Products			QTY		Price
+=================================================
+ Park Avenue			1		3500 
+ Himalay			1		90 
+ Smasung M12			1		12000
+
+=================================================
+ Sub Amount:			Rs.15590.00
+ Tax Amount:			Rs.35.90
+ Total Amount:			Rs.15625.90
+=================================================

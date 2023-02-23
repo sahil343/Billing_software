@@ -1,0 +1,18 @@
+		 Welcome Mini Mall
+ Bill Number:2445 
+ Customer Name:karan 
+ Phone Number:7283960425 
+ Customer Email:karangondliya@gmail.com 
+=================================================
+	Products			QTY		Price
+=================================================
+ Iphone_11				1		60000 
+ Iphone_13				1		60000 
+ Iphone_12				1		85000 
+ Iphone_11				1		60000
+
+=================================================
+ Sub Amount:			Rs.265000.00
+ Tax Amount:			Rs.36900.00
+ Total Amount:			Rs.301900.00
+=================================================

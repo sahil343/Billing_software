@@ -1,0 +1,17 @@
+		 Welcome Mini Mall
+ Bill Number:2046 
+ Customer Name: 
+ Phone Number: 
+ Customer Email: 
+=================================================
+	Products			QTY		Price
+=================================================
+ Calvin Klein				2		8000 
+ Bajaj				1		1500 
+ Redmi-12				3		36000
+
+=================================================
+ Sub Amount:			Rs.45500.00
+ Tax Amount:			Rs.335.00
+ Total Amount:			Rs.45835.00
+=================================================
